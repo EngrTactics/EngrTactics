@@ -1,3 +1,42 @@
-Hey there, I'm Ahmad. I'm a software developer, an engineer and technology enthusiast.
+# THE FUTURE
+##### . 👋 Hi, I’m Ahmad Rufai
+##### . 👀 Lover of Cloud and Software Technologies
+##### . 🌱 I’m currently into frontend engineering, with the use of Reactjs
+##### . 📫 I'm currently studying Data Structures and Algorith to improve my Problem Solving Skill
+##### . 🌱 Ask me anything about coding with Javascript and C#
+##### . 💞️ I’m looking to collaborate on any project using React or Dotnet
+##### . 📫 How to reach me ahmadrufaiolayemi@gmail.com
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/rufaiAhmadd?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/rufaiAhmadd) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/EngrTactics?logo=GitHub&style=for-the-badge)](https://github.com/EngrTactics) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/EngrTactics?logo=github&style=for-the-badge)](https://github.com/EngrTactics) &nbsp;
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EngrTactics&langs_count=5&theme=tokyonight)]()
+
+![](https://komarev.com/ghpvc/?username=EngrTactics&color=green)
+
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> 
+
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+ 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">  
+
+</p>
+
+## Lots more
+
