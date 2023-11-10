@@ -4,12 +4,9 @@
 ##### . 👋 Hi, I’m Ahmad Rufai
 ##### . 👀 Lover of Cloud and Software Technologies
 ##### . 🌱 I’m currently into frontend engineering, with the use of Reactjs
-##### . 📫 I'm currently studying Data Structures and Algorith to improve my Problem Solving Skill
 ##### . 🌱 Ask me anything about coding with Javascript and C#
 ##### . 💞️ I’m looking to collaborate on any project using React or Dotnet
 ##### . 📫 How to reach me ahmadrufaiolayemi@gmail.com
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EngrTactics&langs_count=5&theme=tokyonight)]()
 
 ![](https://komarev.com/ghpvc/?username=EngrTactics&color=green)
 
